@@ -22,7 +22,7 @@ Press the push buttons and observe the LED.
 When the required push button(s) are pressed, the circuit is completed and current flows through the LED, making it glow. When the switch is released, the circuit is interrupted and the LED turns OFF.
 
 **Truth table**  
-![][image1]<img width="1536" height="1024" alt="TRUTH TABLE" src="https://github.com/user-attachments/assets/be86bb60-a6f7-42de-b0aa-0b9ec6ad3588" />
+![][image1][and.jpeg]
 
 
 **Result**  
