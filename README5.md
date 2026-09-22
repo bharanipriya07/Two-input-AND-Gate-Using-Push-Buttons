@@ -29,4 +29,5 @@ When the required push button(s) are pressed, the circuit is completed and curre
 
 [image1]: [<img width="720" height="1280" alt="and" src="https://github.com/user-attachments/assets/5104ccb1-a282-493a-9345-2f1c10e8579d" />
 
-[image2]: 
+[image2]: <img width="1536" height="1024" alt="TRUTH TABLE" src="https://github.com/user-attachments/assets/7a40d81f-9b7d-4933-a064-1dc65d0dceda" />
+
